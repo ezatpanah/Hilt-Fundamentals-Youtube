@@ -6,12 +6,12 @@ YouTube Video :
 
 Part 1
 <br>  
-<a href="" target="_blank"><img alt="Ezatpanah Hilt-Fundamentals-Youtube" src="hilt.jpg" width="60%"></a>
+<a href="https://youtu.be/m1I-V7QzaTs" target="_blank"><img alt="Ezatpanah Hilt-Fundamentals-Youtube" src="hilt.jpg" width="60%"></a>
 <br>
 
 Article on Medium:
 <br>
-
+https://medium.com/@ezatpanah/how-to-use-hilt-in-kotlin-complete-guide-part-1-5bbe0768032e
 
 ✨ Join Medium to read thousands of valuable stories ✨
 <br>
